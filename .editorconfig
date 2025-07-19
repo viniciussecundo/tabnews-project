@@ -1,0 +1,6 @@
+root = true
+
+#todos as extensões de arquivos
+[*]
+indent_style = space
+indent_size = 2
